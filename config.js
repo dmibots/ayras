@@ -64,8 +64,8 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'Lui'
-global.author = 'gmntng'
+global.packname = 'Rika'
+global.author = '>////<'
 
 
 

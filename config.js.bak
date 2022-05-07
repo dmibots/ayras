@@ -21,45 +21,46 @@ global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
-  amel: 'https://melcanz.com',
+  amel: 'https://melcanz.com', //hmm free gk sih gk pernah nyoba soalnya :v
     bx: 'https://bx-hunter.herokuapp.com',
-  dhnjing: 'https://dhnjing.xyz',
-  hardianto: 'https://hardianto.xyz',
-  jonaz: 'https://jonaz-api-v2.herokuapp.com',
-  neoxr: 'https://neoxr-api.herokuapp.com',
-  nrtm: 'https://nurutomo.herokuapp.com',
-  xteam: 'https://api.xteam.xyz',
+  dhnjing: 'https://dhnjing.xyz', // mati kyk nya ygy 
+  hardianto: 'https://hardianto.xyz', //free ygy
+  jonaz: 'https://jonaz-api-v2.herokuapp.com', // shine kyk nya ygy
+  neoxr: 'https://neoxr-api.herokuapp.com', // sama ini juga kyk nya
+  nrtm: 'https://nurutomo.herokuapp.com', // mati kyk nya ygy
+  xteam: 'https://api.xteam.xyz', //gk recommend soalnya pelit gk free gk a6 btw bayar buat premium sama unlimited limit ygy
   nzcha: 'http://nzcha-apii.herokuapp.com',
-  bg: 'http://bochil.ddns.net',
-  fdci: 'https://api.fdci.se',
-  rey: 'https://server-api-rey.herokuapp.com',
-  dzx: 'https://api.dhamzxploit.my.id',
-  bsbt: 'https://bsbt-api-rest.herokuapp.com',
-  zahir: 'https://zahirr-web.herokuapp.com',
-  zeks: 'https://api.zeks.xyz',
-  zekais: 'http://zekais-api.herokuapp.com',
-  hardianto: 'https://hardianto-chan.herokuapp.com',
-  pencarikode: 'https://pencarikode.xyz', 
-  erdwepe: 'https://erdwpe-api.herokuapp.com',
-  lolhuman: 'https://api.lolhuman.xyz',
-  LeysCoder: 'https://leyscoders-api.herokuapp.com'
+  bg: 'http://bochil.ddns.net', // udah mati kyl nya eror mlu soalnya
+  fdci: 'https://api.fdci.se', // gk tau gk pernah coba
+  rey: 'https://server-api-rey.herokuapp.com', //nih andalan gweh buat fitur gacha anime btw free ygy
+  dzx: 'https://api.dhamzxploit.my.id', //udah mati kyk nya soalnya blum coba
+  bsbt: 'https://bsbt-api-rest.herokuapp.com', //gk tau gk nyoba
+  zahir: 'https://zahirr-web.herokuapp.com', //mantap zahir kmu ganteng btw free ygy
+  zeks: 'https://api.zeks.xyz', //mantap zeka kamu ganteng btw free ygy
+  zekais: 'http://zekais-api.herokuapp.com', //mantap zekais kamu ganteng btw free ygy
+  hardianto: 'https://hardianto-chan.herokuapp.com', // mati kyknya ygy
+  pencarikode: 'https://pencarikode.xyz', //mati kyk nya ygy
+  erdwepe: 'https://erdwpe-api.herokuapp.com', // ini juga ygy 
+  lolhuman: 'https://api.lolhuman.xyz', //gk recommend soalnya pelit gk free gk a6 btw bayar buat premium sama unlimited limit ygy
+  LeysCoder: 'https://leyscoders-api.herokuapp.com' //mantap leyscoder kmu ganteng ya btw free ygy
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://melcanz.com': 'elaina',
-  'https://hardianto.xyz': 'hardianto',
-  'https://api.xteam.xyz': 'Dawnfrostkey',
-  'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://bsbt-api-rest.herokuapp.com': 'benniismael',
-  'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://api.zeks.xyz': 'apivinz',
-  'https://hardianto-chan.herokuapp.com': 'hardianto',
-  'https://pencarikode.xyz': 'pais', 
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'zekais',
-  'https://api.lolhuman.xyz': 'sanzychan01',
+  'https://melcanz.com': 'elaina', // pasti org nya ganteng
+  'https://hardianto.xyz': 'hardianto', // pasti org nya ganteng
+  'https://api.xteam.xyz': 'Dawnfrostkey',  // pasti org nya pelit
+  'https://zahirr-web.herokuapp.com': 'zahirgans',  // pasti org nya ganteng
+  'https://bsbt-api-rest.herokuapp.com': 'benniismael', //hmmm 
+  'https://server-api-rey.herokuapp.com': 'apirey', // pasti org nya ganteng
+  'https://api.zeks.xyz': 'apivinz', // pasti org nya ganteng
+  'https://hardianto-chan.herokuapp.com': 'hardianto', // hmm
+  'https://pencarikode.xyz': 'pais',  // pasti org nya ganteng
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll', // pasti org nya gntng
+  'https://zekais-api.herokuapp.com': 'zekais', //pasti org nya gntng
+  'https://api.lolhuman.xyz': 'pelitbetsihluwh', //pasti org nya pelit
 }
-//cari apikey sendiri ya gaes yak
+//cari apikey sendiri ya gaes yak gw saranin free aja yak
+//apikey lolhuman sama xteam pelit ygy gk free gk a6
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
